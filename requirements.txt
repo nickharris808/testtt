@@ -1,0 +1,5 @@
+streamlit==1.24.0  # Version may vary based on compatibility
+streamlit-webrtc==0.45.0  # For WebRTC support
+numpy==1.25.2  # Required for numerical operations
+pydub==0.25.1  # For audio manipulation
+openai==0.28.0  # For OpenAI Whisper API
